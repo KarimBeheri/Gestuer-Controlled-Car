@@ -10,3 +10,7 @@ HardwareComponent's Function
 4. 433Mhz TX RX Module: This module will be used for transmitting and receiving the data from MPU-6050.
 5. Other Necessary Components : Jumper Wires, Mini Breadboard, Wheels, Right hand Glove.
 6. L298N: This is the Motor Driver to drive the motors of the Car.
+
+![aa](https://user-images.githubusercontent.com/106775514/171748359-74b1d303-4bfc-4ae1-9eb9-4060ad96638c.png)
+###############################################################################################################
+![ss](https://user-images.githubusercontent.com/106775514/171748409-d232892c-470b-460b-b57a-9f84cf85cef4.png)
